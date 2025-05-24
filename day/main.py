@@ -1,1 +1,0 @@
-﻿print('Day  practice')
