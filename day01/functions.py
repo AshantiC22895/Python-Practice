@@ -8,7 +8,7 @@ A function can return data as a result.
 Creating a Function
 In Python a function is defined using the def keyword:
 
-ExampleGet your own Python Server
+Example
 def my_function():
   print("Hello from a function")
   
